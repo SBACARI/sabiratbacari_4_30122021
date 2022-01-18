@@ -1079,3 +1079,81 @@ footer li {
     font-size: 16px;
     color: #fff;
 }
+		@font-face {
+		  font-family: Montserrat;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/Montserrat-Regular.ttf");
+		  font-weight: 400;
+		  font-display: swap;
+		}
+		@font-face {
+		  font-family: Montserrat;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/Montserrat-SemiBold.ttf");
+		  font-weight: 600;
+		  font-display: swap;
+		}
+		@font-face {
+		  font-family: Montserrat;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/Montserrat-Bold.ttf");
+		  font-weight: 700;
+		  font-display: swap;
+		}
+		@font-face {
+		  font-family: Montserrat;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/Montserrat-ExtraBold.ttf");
+		  font-weight: 800;
+		  font-display: swap;
+		}
+		
+		@font-face {
+		  font-family: NotoSansC;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/NotoSans-Condensed.ttf");
+		  font-weight: 400;
+		  font-display: swap;
+		}
+		@font-face {
+		  font-family: NotoSans;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/NotoSans-Regular.ttf");
+		  font-weight: 400;
+		  font-display: swap;
+		}
+		@font-face {
+		  font-family: NotoSans;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/NotoSans-Medium.ttf");
+		  font-weight: 500;
+		  font-display: swap;
+		}
+		@font-face {
+		  font-family: NotoSans;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/NotoSans-Bold.ttf");
+		  font-weight: 700;
+		  font-display: swap;
+		}
+		@font-face {
+		  font-family: NotoSans;
+		  src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/NotoSans-ExtraBold.ttf");
+		  font-weight: 800;
+		  font-display: swap;
+		}
+		
+	   
+		// @font-face {
+		//   font-family: Montserrat;
+		//   src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/CircularStd-Black.ttf");
+		//   font-weight: 700;
+		// }
+		// @font-face {
+		//   font-family: circularFR;
+		//   src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/CircularStd-Bold.ttf");
+		//   font-weight: 600;
+		// }
+		// @font-face {
+		//   font-family: circularFR;
+		//   src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/CircularStd-Medium.ttf");
+		//   font-weight: 500;
+		// }
+		// @font-face {
+		//   font-family: circularFR;
+		//   src: url("chrome-extension://mhkejggchhilmabpicojddgaahkkgoln/fonts/CircularStd-Book.ttf");
+		//   font-weight: 400;
+		// }
+	  </style>
